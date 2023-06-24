@@ -39,7 +39,8 @@
     * You can always speak to me through any source (email, LinkedIn, in-person), but if you don’t want to talk to me specifically, don't worry I won't be hurt
         * You can connect and talk with your TAs cause that's what I did, and I would say that I’m pretty close with all of my TAs now
         * You can also go to PGH 5th floor to find people to talk to concerning what to learn or better explanations on code, or opportunities (connecting helps a lot in this field)
-        * You can also go to PGH 2nd floor for the TA offices and for a good quiet learning space (I personally used the Carrels in the Library like the 6th floor I think)
+        * There are plenty of quiet spaces around campus that are good study spots, so eventually, you'll find the spot that suits you best (I personally used the Carrels in the Library like the 6th floor I think)
+        * Pull up to your TA's office hours, surprisingly a lot of people don't show up to ask for help, but it's a great time to ask questions and even connect with your TA.
     * Pretty much never feel afraid to ask for help, cause most of the time, unless they’re busy, whoever you asked will be down to help out
 * **Do the extra credit or optional exams:**
     * Even if they’re extra time, they end up teaching you something new most of the time
