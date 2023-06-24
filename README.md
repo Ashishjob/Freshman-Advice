@@ -17,6 +17,7 @@
 * **Try Making a Portfolio Website:**
     * I know this sounds hard, but there are available templates out there 
         * [This is what I used](https://replit.com/) I clicked “Create Repl” searched “Portfolio Website” and then made a [portfolio website](https://ashishjob.web.app/).
+        * After joining the CougarCS WebDev Committee (I talk about this better later in this document), I was able to grow some experience and made a new [portfolio website](https://ashishjob.com/).
 * **Attend Events:**
     * There will be club events and sometimes it might be closed unless you’re a member, but sometimes they aren’t so feel free to go to those.
     * Last year, Google came and gave very strong advice about resumes and how to define your path to your goals.
