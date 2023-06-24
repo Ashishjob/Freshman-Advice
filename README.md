@@ -64,38 +64,38 @@
         * [CougarCS General](https://discord.gg/cougarcs)
         * [CougarCS InfoSec](https://discord.gg/UW3ut9ub)
         * [CougarCS Tutoring](https://discord.gg/fbGcmaKK)
-* **Code[Coogs]**
+* **Code[Coogs]:**
     * This one is more of a social one, but they have solid events for you to gain experience and opportunities
     * They have teams set in place that work on projects over time, so its some really good stuff for your resume
     * $15 per semester and $25 per year I think
     * They also have competitions that you can go to and earn extra credit (these points only apply to Data Structures, but still pretty cool)
     * You can apply for an “internship” in this club, and pretty much you’ll just be under an officer and help out with certain things, and you’ll be much more likely to get an officer position later
     * [Discord Link](https://discord.gg/ayEmCgNN)
-* **CSGirls**
+* **CSGirls:**
     * This is also another social one I think and a bit of a blend of Code[Coogs] and CougarCS overall, but they have a professional development team that you can join I think (good resume addition)
     * They do have a focus on Women in STEM but all are welcome
     * They also have competitions that can apply to Extra Credit (but another Data Structures opportunity)
     * [Discord Link](https://discord.gg/ZgGM9HYE)
-* **CougarAI**
+* **CougarAI:**
     * This is a club that's growing right now, and looking into getting workshops going about learning how to make AI and use it
     * They also have companies come out and give out information (Mercury Data Science and NVIDIA last year)
     * They might be looking into making professional teams where you work on a project dealing with AI, so that's something interesting
     * This is also the club behind DataCON
     * [Discord Link](https://discord.gg/CYhpj4yghn)
-* **IEEE - NSM**
+* **IEEE - NSM:**
     * This is a growing club too, and I’m not fully sure what they focus on, but they have cool workshops and events to learn more things
     * [Discord Link](https://discord.gg/ekQ3KyQw)
-* **Cougarettes**
+* **Cougarettes:**
     * Don’t really know much about this club at all, but they also offer competitions for the Data Structures Extra Credit too
     * [Discord Link](https://discord.gg/ekQ3KyQw)
 * **FITP (Future Information Technology Professionals):**
     * Don’t know much about this club tbh, but they look into concepts such as Cybersecurity and Information Technology overall
     * This is the club behind Cloudathon too btw
     * [Their Website](https://fitpuh.org/)
-* **SASE (Society of Asian Scientists and Engineers)**
+* **SASE (Society of Asian Scientists and Engineers):**
     * Honestly don't know much about this one
     * [Their Website](https://www.uh-sase.org/)
-* **CODS (Cougars of Data Science)**
+* **CODS (Cougars of Data Science):**
     * Similar to CougarAI but specific into Data Science
     * Another one I personally don’t know much about
 
