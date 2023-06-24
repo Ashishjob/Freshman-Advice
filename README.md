@@ -46,7 +46,7 @@
     * Even if they’re extra time, they end up teaching you something new most of the time
     * Also, these help out massively in case of bad scenarios where you might not have done your best on an exam/quiz/assignment
 * **Tutoring:**
-    * TAs, LAUNCH Tutoring, and CougarCS Tutoring are some available sources that I can think of for getting any help on questions you have (I’ll post the CougarCS Tutoring Discord Server Link below) (also sometimes ask the teachers themselves)
+    * TAs, LAUNCH Tutoring, and CougarCS Tutoring are some available sources that I can think of for getting any help on questions you have (I’ll post the CougarCS Tutoring Discord Server Link below) (also sometimes ask the teachers themselves for help)
 * **LeetCoding:**
     * I know it might be daunting but the better you know this, the better you’re prepared for Data Structures and for technical interviews for internships
     * Also don’t just memorize but understand the fundamentals behind each problem, and remember, if you find it hard there are plenty of sources online and at school to ask for help.
