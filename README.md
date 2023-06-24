@@ -73,8 +73,8 @@
     * You can apply for an “internship” in this club, and pretty much you’ll just be under an officer and help out with certain things, and you’ll be much more likely to get an officer position later
     * [Discord Link](https://discord.gg/ayEmCgNN)
 * **CSGirls:**
-    * This is also another social one I think and a bit of a blend of Code[Coogs] and CougarCS overall, but they have a professional development team that you can join I think (good resume addition)
-    * They do have a focus on Women in STEM but all are welcome
+    * This is also another social one I think and a bit of a blend of Code[Coogs] and CougarCS overall, but they have a professional development team, kinda similar to the Code[Coogs] internship that you can join (good resume addition)
+    * They do have a focus on Women in STEM having a support group, but all are welcome
     * They also have competitions that can apply to Extra Credit (but another Data Structures opportunity)
     * [Discord Link](https://discord.gg/ZgGM9HYE)
 * **CougarAI:**
@@ -87,7 +87,6 @@
     * This is a growing club too, and I’m not fully sure what they focus on, but they have cool workshops and events to learn more things
     * [Discord Link](https://discord.gg/ekQ3KyQw)
 * **Cougarettes:**
-    * Don’t really know much about this club at all, but they also offer competitions for the Data Structures Extra Credit too
     * [Discord Link](https://discord.gg/ekQ3KyQw)
 * **FITP (Future Information Technology Professionals):**
     * Don’t know much about this club tbh, but they look into concepts such as Cybersecurity and Information Technology overall
@@ -99,6 +98,9 @@
 * **CODS (Cougars of Data Science):**
     * Similar to CougarAI but specific into Data Science
     * Another one I personally don’t know much about
+* **Cougar Mathletics:**
+    * More of a math major club, but it can still get you connections since a lot of CS majors are double majoring or are minoring in math
+    * [Discord Link](https://discord.gg/J7K4JRt)
 
 ---
 
@@ -119,11 +121,17 @@
 * **Positions:**
     * **Code[Coogs] Intern:**
         * Like I previously mentioned its good to add to the resume, pretty easy, you get connections with people, and you have a higher chance to become a future officer
+    * **CS Girls Professional Development Committee:**
+        * Similar to the Code[Coogs] Internship, and you get to be more involved with the officer team and receive solid professional advice from more experienced members.
+    * **CougarCS Web Dev Committee:**
+        * You do have to apply for this position, but even if you don't have the most experience in webdev, if you have the motivation to learn and are able to socially connect with the team, you can probably get in.
+    * **CougarCS Tutor:**
+        * They are changing up the format of it this next year, but I did this position cause I feel that teaching is one of the best ways to learn and it helped me learn better by being able to explain the concepts to others.
     * **Labs:**
         * There are a lot of research labs that use CS, so I would look into labs across UH that might be looking for people in CS
     * **Club Positions:**
         * Honestly, just by being an active member, you give yourself a higher likelihood to become an officer, also in the smaller clubs, just ask the officers (that's what I did, and it worked)
     * **Honors Positions:**
-        * These are solid too if you wanna help out the next incoming class, and add a title to your resume
+        * These are solid too for honor's students if you wanna help out the next incoming class, and add a title to your resume
     * **TA**
         * You can only do this in your sophomore year, but if you have a good GPA, you can apply to be a TA, and it's very nice for your resume and solid pay too.
