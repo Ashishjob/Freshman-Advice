@@ -51,7 +51,8 @@
 * **LeetCoding:**
     * I know it might be daunting but the better you know this, the better you’re prepared for Data Structures and for technical interviews for internships
     * Also don’t just memorize but understand the fundamentals behind each problem, and remember, if you find it hard there are plenty of sources online and at school to ask for help.
-
+* **HPEDSI's Classes**
+    * Taking classes as a student here is free, and it teaches you about basic AI/DS prinicples, so an interesting thing to check out and take advantage of as a student.
 ---
 
 ## **CS Club Advice**
