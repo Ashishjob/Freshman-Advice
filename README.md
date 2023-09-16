@@ -14,6 +14,7 @@
     * Even if you're only a first-year or haven't taken data structures yet, it's always good to be prepared and set up.
     * Try using this [resume template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) [it is coded, but it's only in LaTeX so not too complex].
     * Include all the factors that make you stand out and update it with everything new that you come across.
+    * One of my friends, [Fernando](https://www.linkedin.com/in/fndo/), who has experience with huge tech companies like MAANG and more has a [service where he can help you make your resume or elevate it to a higher level.](https://resumeservices.super.site/), so I would check that out to get some advice on how to "sell yourself" to recruiters better! 
 * **Try Making a Portfolio Website:**
     * I know this sounds hard, but there are available templates out there 
         * [This is what I used](https://replit.com/) I clicked “Create Repl” searched “Portfolio Website” and then made a [portfolio website](https://ashishjob.web.app/).
